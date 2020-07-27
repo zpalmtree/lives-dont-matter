@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Version: 0.0.1
+! Title: Lives Don't Matter
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/zpalmtree/lives-dont-matter
+!
+
+! momentjs.com
+momentjs.com##h1
+momentjs.com##em
+momentjs.com##.hero-title > h2:nth-of-type(1)
+momentjs.com##h2:nth-of-type(2)
