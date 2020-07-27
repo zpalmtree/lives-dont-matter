@@ -15,8 +15,10 @@ Use this URL: `https://raw.githubusercontent.com/zpalmtree/lives-dont-matter/mas
 * Paste the url: `https://raw.githubusercontent.com/zpalmtree/lives-dont-matter/master/list.txt`
 * Click 'Apply Changes' at the top
 
-### Contributing
+## Contributing
 
 Just make a pull request with the appropriate filters to hide the banners, text, etc, that is not relevant to the website content.
+
+Add a line with a comment (Starting with `!`) to mention the website being blocked and any other important info.
 
 You can create filters with uBlock/Adblock by using the element picker tool to select elements, then hide them. They should then show up in your custom filter lists to be added to this file.
