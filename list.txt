@@ -14,3 +14,6 @@ momentjs.com##h2:nth-of-type(2)
 
 ! nodejs.org
 nodejs.org##.home-blacklivesmatter-banner.home-blacklivesmatter
+
+! golang.org
+golang.org##.Header-banner
