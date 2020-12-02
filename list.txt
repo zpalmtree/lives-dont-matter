@@ -17,3 +17,6 @@ nodejs.org##.home-blacklivesmatter-banner.home-blacklivesmatter
 
 ! golang.org
 golang.org##.Header-banner
+
+! xstate.js.org
+xstate.js.org##.blm-callout
