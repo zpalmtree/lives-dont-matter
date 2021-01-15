@@ -20,3 +20,6 @@ golang.org##.Header-banner
 
 ! xstate.js.org
 xstate.js.org##.blm-callout
+
+! electronjs.org
+www.electronjs.org##.announcement-banner
